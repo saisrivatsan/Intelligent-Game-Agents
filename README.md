@@ -6,7 +6,7 @@ We develop a Minimax and alpha-beta search based intelligent agent for Warfare g
 Installation
 -------------
 1. Install Qt-C++ and the dependant libraries.
-2. Compile the game in Release Mode.
+2. Download the game and Compile the game in Release Mode.
 
 Game Play
 ---------
@@ -23,9 +23,9 @@ Additionally after every game, we store the game data in a text file at the loca
 Read ./Outputs/ReadMeforGameData.txt for further details on how to find the file and interpret the data.
 There is a RunAllCombo button which automatically plays the game for all combinations of board, depth and and algorithm for automated agents and logs the information.
 
-*Time Elapsed data for Human users are not stored.
 
 Others
 -------
 Project submitted as part of Artificial Intelligence Course (CS60045), IIT Kharagpur.
+
 Tested and verified in Qt 5.3 on Windows 
