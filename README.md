@@ -27,4 +27,5 @@ There is a RunAllCombo button which automatically plays the game for all combina
 Others
 -------
 Project submitted as part of Artificial Intelligence Course (CS60045), IIT Kharagpur.
+
 Tested and verified in Qt 5.3 on Windows 
