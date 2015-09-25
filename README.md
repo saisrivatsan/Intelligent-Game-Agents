@@ -18,7 +18,7 @@ The LCD score boards show the current scores at every instant during game play.
 
 Game Logs
 ---------
-Additionally after every game, we store the game data in a text file at the location ./build-Warfare-Desktop_Qt_5_3_MSVC2013_OpenGL_64bit-Release.*
+Additionally after every game, we store the game data in a text file at the location ./build-Warfare-Desktop_Qt_5_3_MSVC2013_OpenGL_64bit-Release.
 
 Read ./Outputs/ReadMeforGameData.txt for further details on how to find the file and interpret the data.
 There is a RunAllCombo button which automatically plays the game for all combinations of board, depth and and algorithm for automated agents and logs the information.
@@ -27,5 +27,4 @@ There is a RunAllCombo button which automatically plays the game for all combina
 Others
 -------
 Project submitted as part of Artificial Intelligence Course (CS60045), IIT Kharagpur.
-
 Tested and verified in Qt 5.3 on Windows 
