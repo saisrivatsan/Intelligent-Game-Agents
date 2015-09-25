@@ -1,0 +1,89 @@
+Board: Smolensk
+Minimax vs A-B Pruning
+Depth: 4
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : A5
+Green : D5
+Blue : A6
+Green : C6
+Blue : E6
+Green : E5
+Blue : C4
+Green : C5
+Blue : B6
+Green : B5
+Blue : D6
+Green : D4
+Blue : B1
+Green : B3
+Blue : D3
+Green : B2
+Blue : B4
+Green : A4
+Blue : C3
+Green : A3
+Blue : C2
+Green : A2
+Blue : D1
+Green : E2
+Blue : E1
+Green : F6
+Blue : A1
+Green : C1
+Blue : D2
+Green : F5
+Blue : F3
+Green : F1
+Blue : F2
+Green : F4
+Blue : E3
+Green : E4
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+B G G B B B 
+G G B B B B 
+G G B B G B 
+G G B G G G 
+G G G G G G 
+B G B B B G 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :707
+GREEN :946
+GREEN WINS
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+44137 37061 30785 25261 20441 16277 12721 9725 7241 5221 3617 2381 1465 821 401 157 41 5 
+Total :217758
+Average :12097
+
+GREEN :
+4942 5260 23414 15454 14934 4104 1438 1219 2621 1230 532 330 274 102 139 60 16 2 
+Total :76071
+Average :4226
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :28
+Average :1
+
+GREEN :
+
+Total :7
+Average :0

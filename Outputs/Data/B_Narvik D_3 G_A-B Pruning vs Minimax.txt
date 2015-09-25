@@ -1,0 +1,89 @@
+Board: Narvik
+A-B Pruning vs Minimax
+Depth: 3
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : A1
+Green : F6
+Blue : C1
+Green : D6
+Blue : E1
+Green : B6
+Blue : B2
+Green : E5
+Blue : D2
+Green : C5
+Blue : F2
+Green : A5
+Blue : B1
+Green : E6
+Blue : D1
+Green : C6
+Blue : F1
+Green : A6
+Blue : A2
+Green : F5
+Blue : C2
+Green : D5
+Blue : E2
+Green : B5
+Blue : A3
+Green : A4
+Blue : B3
+Green : B4
+Blue : C3
+Green : C4
+Blue : D3
+Green : D4
+Blue : E3
+Green : E4
+Blue : F3
+Green : F4
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+B B B B B B 
+B B B B B B 
+B B B B B G 
+G G G G G G 
+G G G G G G 
+G G G G G G 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :899
+GREEN :901
+GREEN WINS
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+107 148 152 170 170 168 249 211 177 147 121 99 121 29 38 17 13 5 
+Total :2142
+Average :119
+
+GREEN :
+1226 1090 962 842 730 626 530 442 362 290 226 170 122 82 50 26 10 2 
+Total :7788
+Average :432
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :0
+Average :0
+
+GREEN :
+
+Total :0
+Average :0

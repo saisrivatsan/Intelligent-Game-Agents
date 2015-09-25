@@ -1,0 +1,89 @@
+Board: Sevastopol
+A-B Pruning vs A-B Pruning
+Depth: 3
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : A6
+Green : B6
+Blue : C6
+Green : D6
+Blue : E6
+Green : F6
+Blue : B5
+Green : A5
+Blue : D5
+Green : C5
+Blue : F5
+Green : E5
+Blue : A4
+Green : B4
+Blue : C4
+Green : D4
+Blue : E4
+Green : F4
+Blue : B3
+Green : A3
+Blue : D3
+Green : C3
+Blue : F3
+Green : E3
+Blue : A2
+Green : B2
+Blue : C2
+Green : D2
+Blue : E2
+Green : F2
+Blue : B1
+Green : A1
+Blue : D1
+Green : C1
+Blue : F1
+Green : E1
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+G B G B G B 
+B G B G B G 
+G B G B G B 
+B G B G B G 
+G B G B G B 
+B G B G B G 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :189
+GREEN :189
+TIE
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+1152 1062 981 781 714 645 482 420 367 255 216 175 105 79 55 21 13 5 
+Total :7528
+Average :418
+
+GREEN :
+1109 1026 947 736 669 606 453 398 347 224 185 150 85 62 41 14 8 2 
+Total :7062
+Average :392
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :0
+Average :0
+
+GREEN :
+
+Total :0
+Average :0

@@ -1,0 +1,89 @@
+Board: Narvik
+Minimax vs Minimax
+Depth: 3
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : F6
+Green : B6
+Blue : E5
+Green : A5
+Blue : F4
+Green : B4
+Blue : E3
+Green : A3
+Blue : F2
+Green : B2
+Blue : E1
+Green : A1
+Blue : E6
+Green : A6
+Blue : C6
+Green : F5
+Blue : D6
+Green : E4
+Blue : B5
+Green : A4
+Blue : F3
+Green : D3
+Blue : A2
+Green : C3
+Blue : B3
+Green : E2
+Blue : F1
+Green : C2
+Blue : D2
+Green : D1
+Blue : D5
+Green : D4
+Blue : C5
+Green : C4
+Blue : C1
+Green : B1
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+G G G G B B 
+B G G B G B 
+G B G G B B 
+G G G G G B 
+G B G B B G 
+G G B B B B 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :800
+GREEN :1000
+GREEN WINS
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+1297 1157 1025 901 785 677 577 485 401 325 257 197 145 101 65 37 17 5 
+Total :8454
+Average :469
+
+GREEN :
+1226 1090 962 842 730 626 530 442 362 290 226 170 122 82 50 26 10 2 
+Total :7788
+Average :432
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :0
+Average :0
+
+GREEN :
+
+Total :0
+Average :0

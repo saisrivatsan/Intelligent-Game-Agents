@@ -1,0 +1,89 @@
+Board: Sevastopol
+Minimax vs Minimax
+Depth: 3
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : F6
+Green : E6
+Blue : D6
+Green : C6
+Blue : B6
+Green : A6
+Blue : E5
+Green : F5
+Blue : C5
+Green : D5
+Blue : A5
+Green : B5
+Blue : F4
+Green : E4
+Blue : D4
+Green : C4
+Blue : B4
+Green : A4
+Blue : E3
+Green : F3
+Blue : C3
+Green : D3
+Blue : A3
+Green : B3
+Blue : F2
+Green : E2
+Blue : D2
+Green : C2
+Blue : B2
+Green : A2
+Blue : E1
+Green : F1
+Blue : C1
+Green : D1
+Blue : A1
+Green : B1
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+B G B G B G 
+G B G B G B 
+B G B G B G 
+G B G B G B 
+B G B G B G 
+G B G B G B 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :189
+GREEN :189
+TIE
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+1297 1157 1025 901 785 677 577 485 401 325 257 197 145 101 65 37 17 5 
+Total :8454
+Average :469
+
+GREEN :
+1226 1090 962 842 730 626 530 442 362 290 226 170 122 82 50 26 10 2 
+Total :7788
+Average :432
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :0
+Average :0
+
+GREEN :
+
+Total :0
+Average :0

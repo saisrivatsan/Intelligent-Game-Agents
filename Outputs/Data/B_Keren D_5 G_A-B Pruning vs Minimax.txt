@@ -1,0 +1,89 @@
+Board: Keren
+A-B Pruning vs Minimax
+Depth: 5
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : A1
+Green : F6
+Blue : B1
+Green : E6
+Blue : C1
+Green : D6
+Blue : D1
+Green : C6
+Blue : E1
+Green : B6
+Blue : F1
+Green : A6
+Blue : A2
+Green : F5
+Blue : B2
+Green : E5
+Blue : C2
+Green : D5
+Blue : D2
+Green : C5
+Blue : E2
+Green : B5
+Blue : A3
+Green : F4
+Blue : F3
+Green : A4
+Blue : F2
+Green : A5
+Blue : B3
+Green : B4
+Blue : C3
+Green : C4
+Blue : D3
+Green : D4
+Blue : E3
+Green : E4
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+B B B B B B 
+B B B B B B 
+B B B B G B 
+G G G G G G 
+G G G G G G 
+G G G G G G 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :17
+GREEN :19
+GREEN WINS
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+4240 4536 4331 4108 4263 3373 5157 3557 2677 1967 1290 1404 1643 1285 583 106 38 5 
+Total :44563
+Average :2475
+
+GREEN :
+1297136 1015906 783092 592790 439480 318026 223676 152062 99200 61490 35716 19046 9032 3610 1100 206 16 2 
+Total :5051586
+Average :280643
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :0
+Average :0
+
+GREEN :
+
+Total :609
+Average :33

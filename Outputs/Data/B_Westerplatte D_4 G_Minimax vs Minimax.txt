@@ -1,0 +1,89 @@
+Board: Westerplatte
+Minimax vs Minimax
+Depth: 4
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : D5
+Green : C5
+Blue : E4
+Green : B4
+Blue : E3
+Green : C3
+Blue : B6
+Green : D3
+Blue : D4
+Green : C6
+Blue : C4
+Green : B5
+Blue : B3
+Green : A5
+Blue : D2
+Green : D6
+Blue : E5
+Green : E2
+Blue : E6
+Green : A2
+Blue : F6
+Green : A4
+Blue : A3
+Green : B1
+Blue : A6
+Green : A1
+Blue : F5
+Green : F4
+Blue : F3
+Green : F2
+Blue : F1
+Green : E1
+Blue : D1
+Green : C1
+Blue : C2
+Green : B2
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+G G B G G G 
+G G G B G G 
+B G B B G G 
+B G B B B G 
+G G G B B B 
+B G G B B B 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :31
+GREEN :41
+GREEN WINS
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+44137 37061 30785 25261 20441 16277 12721 9725 7241 5221 3617 2381 1465 821 401 157 41 5 
+Total :217758
+Average :12097
+
+GREEN :
+40496 33826 27932 22766 18280 14426 11156 8422 6176 4370 2956 1886 1112 586 260 86 16 2 
+Total :194754
+Average :10819
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :21
+Average :1
+
+GREEN :
+
+Total :21
+Average :1

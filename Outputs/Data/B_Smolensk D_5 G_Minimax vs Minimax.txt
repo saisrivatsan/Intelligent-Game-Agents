@@ -1,0 +1,89 @@
+Board: Smolensk
+Minimax vs Minimax
+Depth: 5
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : C6
+Green : A5
+Blue : D5
+Green : B3
+Blue : A6
+Green : A3
+Blue : D1
+Green : C5
+Blue : B5
+Green : B4
+Blue : B6
+Green : A1
+Blue : E6
+Green : C1
+Blue : F6
+Green : A4
+Blue : F3
+Green : B1
+Blue : E5
+Green : C2
+Blue : D2
+Green : B2
+Blue : D3
+Green : C3
+Blue : E3
+Green : D4
+Blue : E4
+Green : C4
+Blue : E2
+Green : A2
+Blue : D6
+Green : F2
+Blue : F5
+Green : F4
+Blue : F1
+Green : E1
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+G G G B G B 
+G G G B B G 
+G G G B B B 
+G G G G B G 
+G B G B B B 
+B B B B B B 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :800
+GREEN :853
+GREEN WINS
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+1457857 1150085 893825 682981 511841 375077 267745 185285 123521 78661 47297 26405 13345 5861 2081 517 65 5 
+Total :5822454
+Average :323469
+
+GREEN :
+1297136 1015906 783092 592790 439480 318026 223676 152062 99200 61490 35716 19046 9032 3610 1100 206 16 2 
+Total :5051586
+Average :280643
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :903
+Average :50
+
+GREEN :
+
+Total :769
+Average :42

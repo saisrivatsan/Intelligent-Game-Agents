@@ -1,0 +1,89 @@
+Board: Keren
+A-B Pruning vs A-B Pruning
+Depth: 5
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : A1
+Green : B1
+Blue : C1
+Green : D1
+Blue : E1
+Green : F1
+Blue : B2
+Green : A2
+Blue : D2
+Green : C2
+Blue : F2
+Green : E2
+Blue : A3
+Green : B3
+Blue : C3
+Green : D3
+Blue : E3
+Green : F3
+Blue : B4
+Green : A4
+Blue : D4
+Green : C4
+Blue : F4
+Green : E4
+Blue : A5
+Green : B5
+Blue : C5
+Green : D5
+Blue : E5
+Green : F5
+Blue : B6
+Green : A6
+Blue : D6
+Green : C6
+Blue : F6
+Green : E6
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+B G B G B G 
+G B G B G B 
+B G B G B G 
+G B G B G B 
+B G B G B G 
+G B G B G B 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :18
+GREEN :18
+TIE
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+4240 3890 3691 3838 3376 2850 2316 1902 1994 1462 1192 894 540 367 243 133 44 5 
+Total :32977
+Average :1832
+
+GREEN :
+4073 3844 3237 3045 2470 2480 2076 1730 1305 1173 838 681 456 296 153 75 14 2 
+Total :27948
+Average :1552
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :0
+Average :0
+
+GREEN :
+
+Total :0
+Average :0

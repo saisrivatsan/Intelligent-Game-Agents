@@ -1,0 +1,89 @@
+Board: Sevastopol
+A-B Pruning vs Minimax
+Depth: 5
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : A6
+Green : F6
+Blue : C6
+Green : D6
+Blue : B5
+Green : E6
+Blue : B6
+Green : E5
+Blue : A5
+Green : F5
+Blue : D5
+Green : C5
+Blue : C4
+Green : F4
+Blue : A4
+Green : D4
+Blue : B3
+Green : E4
+Blue : B4
+Green : E3
+Blue : A3
+Green : F3
+Blue : D3
+Green : C3
+Blue : C2
+Green : F2
+Blue : A2
+Green : D2
+Blue : A1
+Green : E2
+Blue : B2
+Green : F1
+Blue : C1
+Green : D1
+Blue : B1
+Green : E1
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+B B B G G G 
+B B B G G G 
+B B G B G G 
+B B B G G G 
+B B G B G G 
+B B B G G G 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :189
+GREEN :189
+TIE
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+959907 859566 556684 572328 345922 276388 124815 112915 51006 46339 20192 11844 3103 2247 416 268 41 5 
+Total :3943986
+Average :219110
+
+GREEN :
+1297136 1015906 783092 592790 439480 318026 223676 152062 99200 61490 35716 19046 9032 3610 1100 206 16 2 
+Total :5051586
+Average :280643
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :474
+Average :26
+
+GREEN :
+
+Total :635
+Average :35

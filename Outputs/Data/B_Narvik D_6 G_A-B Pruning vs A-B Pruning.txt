@@ -1,0 +1,89 @@
+Board: Narvik
+A-B Pruning vs A-B Pruning
+Depth: 6
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : A1
+Green : E1
+Blue : C1
+Green : D1
+Blue : B1
+Green : D2
+Blue : C2
+Green : E2
+Blue : B2
+Green : F2
+Blue : A3
+Green : C5
+Blue : B4
+Green : C4
+Blue : B3
+Green : B5
+Blue : A4
+Green : A5
+Blue : F6
+Green : E3
+Blue : E5
+Green : E4
+Blue : F5
+Green : D5
+Blue : C3
+Green : D3
+Blue : E6
+Green : D4
+Blue : F4
+Green : F3
+Blue : D6
+Green : C6
+Blue : F1
+Green : A2
+Blue : A6
+Green : B6
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+B B B G G B 
+G B B G G G 
+B B G G G G 
+G B G G B G 
+G G G B B B 
+G G G G B B 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :701
+GREEN :1099
+GREEN WINS
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+77501 89461 36685 87421 92978 78031 120566 44663 46983 44743 21258 22938 13866 13842 3221 825 51 5 
+Total :795038
+Average :44168
+
+GREEN :
+97873 76109 88508 68959 86330 89555 131402 92280 32668 25527 28086 15810 5579 3077 884 296 12 2 
+Total :842957
+Average :46830
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :170
+Average :9
+
+GREEN :
+
+Total :174
+Average :9

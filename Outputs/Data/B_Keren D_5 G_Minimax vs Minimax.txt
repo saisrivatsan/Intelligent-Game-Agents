@@ -1,0 +1,89 @@
+Board: Keren
+Minimax vs Minimax
+Depth: 5
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : F6
+Green : E6
+Blue : D6
+Green : C6
+Blue : B6
+Green : A6
+Blue : E5
+Green : F5
+Blue : C5
+Green : D5
+Blue : A5
+Green : B5
+Blue : F4
+Green : E4
+Blue : D4
+Green : C4
+Blue : B4
+Green : A4
+Blue : E3
+Green : F3
+Blue : C3
+Green : D3
+Blue : A3
+Green : B3
+Blue : F2
+Green : E2
+Blue : D2
+Green : C2
+Blue : B2
+Green : A2
+Blue : E1
+Green : F1
+Blue : C1
+Green : D1
+Blue : A1
+Green : B1
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+B G B G B G 
+G B G B G B 
+B G B G B G 
+G B G B G B 
+B G B G B G 
+G B G B G B 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :18
+GREEN :18
+TIE
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+1457857 1150085 893825 682981 511841 375077 267745 185285 123521 78661 47297 26405 13345 5861 2081 517 65 5 
+Total :5822454
+Average :323469
+
+GREEN :
+1297136 1015906 783092 592790 439480 318026 223676 152062 99200 61490 35716 19046 9032 3610 1100 206 16 2 
+Total :5051586
+Average :280643
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :749
+Average :41
+
+GREEN :
+
+Total :667
+Average :37

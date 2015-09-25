@@ -1,0 +1,89 @@
+Board: Smolensk
+A-B Pruning vs A-B Pruning
+Depth: 6
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : A5
+Green : D5
+Blue : A6
+Green : B3
+Blue : C5
+Green : B1
+Blue : A3
+Green : D1
+Blue : B4
+Green : B2
+Blue : A2
+Green : A1
+Blue : E5
+Green : D3
+Blue : F6
+Green : A4
+Blue : B5
+Green : C2
+Blue : C3
+Green : F3
+Blue : F1
+Green : F2
+Blue : C1
+Green : C4
+Blue : E2
+Green : E1
+Blue : E4
+Green : F4
+Blue : F5
+Green : D2
+Blue : D4
+Green : E3
+Blue : D6
+Green : E6
+Blue : C6
+Green : B6
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+G G B G G G 
+G B G G G G 
+B G B G G G 
+G B G B G B 
+B B B G B B 
+B G B B G B 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :787
+GREEN :866
+GREEN WINS
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+563964 2257021 1291317 804430 683076 147154 628955 295002 188620 160168 103430 47590 30316 16312 3701 770 46 5 
+Total :7221877
+Average :401215
+
+GREEN :
+1333661 1788160 1666806 1098126 609911 97739 544650 383022 236359 150681 54664 45035 9535 3989 1991 187 14 2 
+Total :8024532
+Average :445807
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :1145
+Average :63
+
+GREEN :
+
+Total :1382
+Average :76

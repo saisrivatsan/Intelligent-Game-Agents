@@ -1,0 +1,89 @@
+Board: Westerplatte
+A-B Pruning vs A-B Pruning
+Depth: 4
+-------------------------------------
+Move Sequence
+-------------------------------------
+Blue : C2
+Green : D2
+Blue : B3
+Green : E3
+Blue : B4
+Green : D4
+Blue : E1
+Green : C4
+Blue : C3
+Green : D1
+Blue : D3
+Green : E2
+Blue : E4
+Green : F2
+Blue : C5
+Green : C1
+Blue : B2
+Green : B5
+Blue : B1
+Green : F5
+Blue : A1
+Green : F3
+Blue : F4
+Green : E6
+Blue : F1
+Green : F6
+Blue : A2
+Green : A3
+Blue : A4
+Green : A5
+Blue : A6
+Green : B6
+Blue : C6
+Green : D6
+Blue : D5
+Green : E5
+
+
+-------------------------------------
+Board state
+-------------------------------------
+
+B B B G G B 
+B B B G G G 
+G B B B G B 
+G G B B G B 
+G G B G G G 
+G G G B G G 
+
+-------------------------------------
+Scores And Status
+-------------------------------------
+BLUE :31
+GREEN :41
+GREEN WINS
+
+
+-------------------------------------
+Nodes Expanded
+-------------------------------------
+BLUE :
+4125 4697 5241 8281 2408 2819 2087 1514 813 1046 1048 756 578 356 157 61 29 5 
+Total :36021
+Average :2001
+
+GREEN :
+4157 5201 5987 3371 4392 2629 2064 1646 1959 1223 618 685 718 240 72 44 16 2 
+Total :35024
+Average :1945
+
+
+-------------------------------------
+Time Elapsed (in ms)
+-------------------------------------
+BLUE :
+
+Total :1
+Average :0
+
+GREEN :
+
+Total :1
+Average :0
