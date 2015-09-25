@@ -8,6 +8,8 @@ Installation
 1. Install Qt-C++ and the dependant libraries.
 2. Download the game and Compile the game in Release Mode.
 
+Tested and verified in Qt 5.3 on Windows 
+
 Game Play
 ---------
 Select the board, agent for player 1 and player 2. If any of the player is an automated agent (Minimax or A-B pruning), a difficulty slider will be displayed. Set the required difficulty level (1-5). If both the agents are A-B pruning,the difficulty can be set upto level 7, but note that game play is slower for higher difficulty.
@@ -26,6 +28,6 @@ There is a RunAllCombo button which automatically plays the game for all combina
 
 Others
 -------
-Project submitted as part of Artificial Intelligence Course (CS60045), IIT Kharagpur.
+Project submitted as part of Artificial Intelligence Course (CS60045), IIT Kharagpur. Check out the [report](https://github.com/saisrivatsan/intelligentGameAgents/blob/master/Report.pdf) as well.
 
-Tested and verified in Qt 5.3 on Windows 
+
