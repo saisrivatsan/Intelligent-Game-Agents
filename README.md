@@ -1,7 +1,7 @@
-Minimax searches and Alpha-beta pruning for game playing
+Minimax search and Alpha-beta pruning for game playing
 ========================================================
 
-We develop a Minimax and alpha-beta search based intelligent agent for Warfare game. We implement the above with GUI using Qt
+We develop a Minimax and alpha-beta search based intelligent agent for [Warfare game](https://github.com/saisrivatsan/intelligentGameAgents/blob/master/Game%20Description.pdf). We implement the above with GUI using Qt
 
 Installation
 -------------
